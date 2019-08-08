@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Ground
+  - MovingPlatform
+  - Enemy
+  - Projectile
+  - Hazard
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - 
+  - 
+  - PlayerProjectile
+  - 
+  - Platform
+  - Ground
+  - 
+  - Background
+  - 
+  - Enemy
+  - 
+  - StunnedEnemy
+  - 
+  - EnemyProjectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 4167062147
+    locked: 0
+  - name: MiddleGround
+    uniqueID: 1902934637
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 3423879857
+    locked: 0
+  - name: Player
+    uniqueID: 459820615
+    locked: 0
+  - name: ForeGround
+    uniqueID: 3721996833
+    locked: 0
